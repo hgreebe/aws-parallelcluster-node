@@ -10,6 +10,12 @@ This file is used to list changes made in each version of the aws-parallelcluste
 - Fix an issue where EC2 throttling during compute node launch is not retried and is reported as insufficient capacity
   when using Multiple Instance Types or multiple subnets.
 
+3.16.1
+------
+
+**CHANGES**
+- There were no changes for this version.
+
 3.16.0
 ------
 
